@@ -24,6 +24,3 @@ Please download manually due to size constraints.
 ## 🧑‍💻 Authors
 - Po-Hsun Chang — resnet34 lead
 - Group project with: Chengduo Di, Sipeng Wang, Jinqi Li, Xinyang Chen
-
-## 📎 Notes
-This project was implemented individually for the programming component. Certain collaborative features (e.g. pairing) were skipped accordingly.

@@ -22,7 +22,7 @@ Please download manually due to size constraints.
 - VGG16 showed acceptable results but was outperformed by ResNet34.
 
 ## 🧑‍💻 Authors
-- Po-Hsun Chang (z5408868) — resnet34 lead
+- Po-Hsun Chang — resnet34 lead
 - Group project with: Chengduo Di, Sipeng Wang, Jinqi Li, Xinyang Chen
 
 ## 📎 Notes
